@@ -9,7 +9,7 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 ### Windows
 
-1. **Download the Installer**: Get the `aderisWiretap_Setup_1.0.0.exe` from the [Releases](https://github.com/yourusername/your-repo-name/releases) page.
+1. **Download the Installer**: Get the `aderisWiretap_Setup_1.0.0.exe` from the [Aderis Wiretap Windows Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Windows) page.
 
 2. **Run the Installer**: Double-click the downloaded `aderisWiretap_Setup_1.0.0.exe` file to start the installation process. Follow the on-screen instructions to complete the installation.
 
@@ -19,7 +19,7 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 ### macOS
 
-1. **Download the Installer**: Get the `aderisWiretap.pkg` from the [Releases](https://github.com/yourusername/your-repo-name/releases) page.
+1. **Download the Installer**: Get the `aderisWiretap.pkg` from the [Aderis Wiretap Mac Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Mac) page.
 
 2. **Run the Installer**: Double-click the `aderisWiretap.pkg` file to initiate the installation. Follow the on-screen instructions to complete the installation.
 
@@ -30,7 +30,7 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 ### Ubuntu (Linux)
 
-1. **Download the Installer**: Get the `aderisWiretap_1.1.0_amd64.deb` from the [Releases](https://github.com/yourusername/your-repo-name/ubuntubuild) page.
+1. **Download the Installer**: Get the `aderisWiretap_1.1.0_amd64.deb` from the [Aderis Wiretap Ubuntu Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Ubuntu) page.
 2. **Install the Package**: Open a terminal and run the following commands:
 
    ```bash
