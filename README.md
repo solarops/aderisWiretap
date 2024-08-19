@@ -14,8 +14,9 @@ The Wiretap desktop application enables users to discover and monitor existing M
 2. **Run the Installer**: Double-click the downloaded `.exe` file to start the installation process. Follow the on-screen instructions to complete the installation.
 
 3. **Install Dependencies**: The application will automatically install the necessary dependencies. This may take some time.
+   ![Example Image](Untitled (7) (1).png)
 
-4. **Start the Application**: Once the dependencies are installed, the application will start automatically.
+5. **Start the Application**: Once the dependencies are installed, the application will start automatically.
 
 ### macOS
 
