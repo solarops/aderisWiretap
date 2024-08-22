@@ -19,7 +19,7 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 ### macOS
 
-1. **Download the Installer**: Get the `aderisWiretap.pkg` from the [Aderis Wiretap Mac Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Mac) page.
+1. **Download the Installer**: Get the `aderisWiretap.pkg` from the [Aderis Wiretap Mac Installers](https://github.com/solarops/aderisWiretap/tree/main/aderisWiretap_Installers/Mac) page.
 
 2. **Run the Installer**: Double-click the `aderisWiretap.pkg` file to initiate the installation. Follow the on-screen instructions to complete the installation.
 
