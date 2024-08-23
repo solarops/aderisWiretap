@@ -30,12 +30,12 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 ### Ubuntu (Linux)
 
-1. **Download the Installer**: Get the `aderisWiretap_1.1.0_amd64.deb` from the [Aderis Wiretap Ubuntu Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Ubuntu) page.
+1. **Download the Installer**: Get the `aderisWiretap_1.0.0_amd64.deb` from the [Aderis Wiretap Ubuntu Installers](https://github.com/solarops/aderisWiretap/tree/c079287e90aa36af7f8c4a0f819e99745020a6d7/aderisWiretap_Installers/Ubuntu) page.
 2. **Install the Package**: Open a terminal and run the following commands:
 
    ```bash
-   sudo dpkg -i aderisWiretap_1.1.0_amd64.deb
+   sudo dpkg -i aderisWiretap_1.0.0_amd64.deb
    sudo apt-get install -f
 3. **Install Dependencies**: The application will automatically install the necessary dependencies. This may take some time.
-4. **Double-Click the `aderisWiretap_1.1.0_amd64.deb` File**: Alternatively, you can double-click the `.deb` file to open it with your package manager and follow the installation prompts.
+4. **Double-Click the `aderisWiretap_1.0.0_amd64.deb` File**: Alternatively, you can double-click the `.deb` file to open it with your package manager and follow the installation prompts.
 5. **Start the Application**: Once the installation is complete, the application will start automatically.
