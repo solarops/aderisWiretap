@@ -5,6 +5,9 @@ The Wiretap desktop application enables users to discover and monitor existing M
 
 📜 This section outlines the process of installing Wiretap, ensuring you can manage the software effectively on your computer.
 
+**Installation
+Note:** Administrative access is required to install the Aderis Wiretap application. Please ensure you have the necessary permissions on your device before proceeding with the installation.
+
 ## Installation Instructions
 
 ### Windows
